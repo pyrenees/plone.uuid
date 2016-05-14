@@ -1,6 +1,9 @@
 plone.uuid
 ==========
 
+.. image:: https://secure.travis-ci.org/pyrenees/plone.uuid.png
+   :target: http://travis-ci.org/pyrenees/plone.uuid
+
 This is a minimal package that can be used to obtain a universally unique
 identifier (UUID) for an object.
 
