@@ -4,6 +4,12 @@ Changelog
 1.0.4 (unreleased)
 ------------------
 
+[Changes]
+
+- Changed zope.browserpage and zope.publisher to be "optional" dependencies
+  with [browser] extras and configured only when available
+  [datakurre]
+
 [Fixes]
 
 - Update setup.py url to point to github.
